@@ -1,0 +1,1017 @@
+{
+	"enabled": true,
+	"name": "115.com",
+	"pattern": "*115.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "178",
+	"pattern": "*.178.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "23key.com",
+	"pattern": "*.23key.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "360doc.com",
+	"pattern": "*360doc.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "400gb.com",
+	"pattern": "*400gb.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "4shared",
+	"pattern": "*4shared*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "7m",
+	"pattern": "*7m.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "91.com",
+	"pattern": "*.91.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "angeeks",
+	"pattern": "*angeeks*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "app111",
+	"pattern": "*app111.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "baidu pcs",
+	"pattern": "*pcs.baidu.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "baidupcs.com",
+	"pattern": "*baidupcs.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "baihe",
+	"pattern": "*.baihe.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "bluestacks",
+	"pattern": "*bluestacks*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "chinadiy",
+	"pattern": "*chinadiy*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "chinaren",
+	"pattern": "*chinaren.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "cncrk",
+	"pattern": "*.cncrk.com/*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "cnra2.cn",
+	"pattern": "*.cnra2.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ctdisk",
+	"pattern": "*.ctdisk.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "dbank",
+	"pattern": "*.dbank.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "docin",
+	"pattern": "*docin*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "douban.com",
+	"pattern": "*douban.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "download.sohu.com",
+	"pattern": "http://download.sohu.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "dropbox.com",
+	"pattern": "*dropbox.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "duowan.com",
+	"pattern": "*.*duowan.com*.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "emule",
+	"pattern": "*.*mule*.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "fetion-portal.com",
+	"pattern": "*fetion-portal.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "files.cnblogs.com",
+	"pattern": "*files.cnblogs.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "foxtorrent",
+	"pattern": "*.foxtorrent.com/*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "foxyproxy",
+	"pattern": "http://getfoxyproxy.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "gamedog",
+	"pattern": "*gamedog*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "gamedudu",
+	"pattern": "*gamedudu*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "gamersky",
+	"pattern": "*.gamersky.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "health.sina.com.cn",
+	"pattern": "*health.sina.com.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "hi.baidu",
+	"pattern": "http://hi.baidu.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "hotspotshield",
+	"pattern": "*hotspotshield*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "iask",
+	"pattern": "*.iask.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ijinshan",
+	"pattern": "*.ijinshan.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ipfree",
+	"pattern": "*.ipfree.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "itiexue.net",
+	"pattern": "*itiexue.net*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "jianghu.taobao.com",
+	"pattern": "*.*jianghu.taobao.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "jianghu.taobao.com2",
+	"pattern": "jianghu.taobao.com/*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "kaixin001",
+	"pattern": "http://w*.kaixin001.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "kuaipan.cn",
+	"pattern": "*kuaipan.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "laomaotao",
+	"pattern": "*.laomaotao.net*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "letitbit",
+	"pattern": "*letitbit*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "localhost - 匹配本地主机，可以选择用户名:密码验证信息作为前缀，可以使用端口号座位后缀。注意整个本地子网（127.0.0.0/8）都会被匹配.模式存在，因为“不要对内部网络 IP 地址使用这个代理”已经被选中",
+	"pattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:localhost|127\\.\\d+\\.\\d+\\.\\d+)(?::\\d+)?/.*",
+	"isRegEx": true,
+	"caseSensitive": false,
+	"blackList": true,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "mediafire.com",
+	"pattern": "*mediafire.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "moniwap",
+	"pattern": "*.moniwap.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "multiupload",
+	"pattern": "*multiupload*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "namipan",
+	"pattern": "*.namipan.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "newhua.com",
+	"pattern": "*.newhua.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "nirsoft",
+	"pattern": "*.nirsoft.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "pan.baidu.com",
+	"pattern": "*pan.baidu.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "pcgames.com.cn",
+	"pattern": "*pcgames.com.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "piriform.com",
+	"pattern": "*piriform.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ptbus",
+	"pattern": "*ptbus*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "qiannao",
+	"pattern": "*qiannao*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "qiannao",
+	"pattern": "*.qiannao.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "QQ",
+	"pattern": "*.qq.com/*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "qupan",
+	"pattern": "*.qupan.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "renren.com",
+	"pattern": "*renren.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "romzj",
+	"pattern": "*romzj*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ruanmei",
+	"pattern": "*.ruanmei.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "sandai",
+	"pattern": "*.sandai.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "seeout.info",
+	"pattern": "*.seeout.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "shuame",
+	"pattern": "*shuame*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "simplecd",
+	"pattern": "*simplecd*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "sinaurl.cn",
+	"pattern": "*sinaurl.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "skydrive.live.com",
+	"pattern": "*skydrive.live.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "softarchive",
+	"pattern": "*softarchive*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "t.cn",
+	"pattern": "http://t.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "t1.dpfile.com",
+	"pattern": "*t1.dpfile.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "tech.sina.com.cn",
+	"pattern": "*tech.sina.com.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "tudou.com",
+	"pattern": "*tudou.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "uploading",
+	"pattern": "uploading.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "urbandictionary.com",
+	"pattern": "*urbandictionary.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "url.cn",
+	"pattern": "http://url.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "v.t.sina.com.cn",
+	"pattern": "*v.t.sina.com.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "vdisk.cn",
+	"pattern": "*.vdisk.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "verycd",
+	"pattern": "*verycd.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "webproxy.ca",
+	"pattern": "*webproxy.ca*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "wujieliulan.com",
+	"pattern": "*wujieliulan.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "www.3shitou.com",
+	"pattern": "*.3shitou.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "www.yundasys.com",
+	"pattern": "*.yundasys.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "xdowns",
+	"pattern": "*.xdowns.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "xunlei",
+	"pattern": "*.xunlei.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "yesky.com",
+	"pattern": "*yesky.com**",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "youtube",
+	"pattern": "*.youtube.*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "youxi.com",
+	"pattern": "*youxi.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ys168",
+	"pattern": "*ys168.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "yto",
+	"pattern": "*yto.net.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "yunfile.com",
+	"pattern": "*yunfile.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "zhihu.com",
+	"pattern": "*zhihu.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "本地主机名（通常在名称中不含有句点）.模式存在，因为“不要对内部网络 IP 地址使用这个代理”已经被选中",
+	"pattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?[\\w-]+(?::\\d+)?/.*",
+	"isRegEx": true,
+	"caseSensitive": false,
+	"blackList": true,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "本地子网（IANA 保留地址空间）.模式存在，因为“不要对内部网络 IP 地址使用这个代理”已经被选中",
+	"pattern": "^https?://(?:[^:@/]+(?::[^@/]+)?@)?(?:192\\.168\\.\\d+\\.\\d+|10\\.\\d+\\.\\d+\\.\\d+|172\\.(?:1[6789]|2[0-9]|3[01])\\.\\d+\\.\\d+)(?::\\d+)?/.*",
+	"isRegEx": true,
+	"caseSensitive": false,
+	"blackList": true,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "dl.pconline.com.cn",
+	"pattern": "*dl.pconline.com.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "51cto.com",
+	"pattern": "*51cto.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "textfx",
+	"pattern": "*textfx.no-ip.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "downloads.sourceforge.net",
+	"pattern": "*.sourceforge.net*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "price.zol.com.cn",
+	"pattern": "*price.zol.com.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "skype.com",
+	"pattern": "*skype.com/*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "download.get.live.cn",
+	"pattern": "*download.get.live.cn*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "vpnbook.com",
+	"pattern": "*vpnbook.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "download.csdn.net",
+	"pattern": "http://download.csdn.net*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "hanzify.org",
+	"pattern": "*hanzify.org*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "pc6.com",
+	"pattern": "*pc6.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "tuxfamily.org",
+	"pattern": "*tuxfamily.org*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "ClassicShellSetup",
+	"pattern": "*ClassicShellSetup*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "freedownloadmanager",
+	"pattern": "*freedownloadmanager.org*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "freedownloadmanager2",
+	"pattern": "*208.88.224.211*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "xiazaiba.com",
+	"pattern": "*xiazaiba.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+},
+{
+	"enabled": true,
+	"name": "filehippo.com",
+	"pattern": "*filehippo.com*",
+	"isRegEx": false,
+	"caseSensitive": false,
+	"blackList": false,
+	"multiLine": false
+}
