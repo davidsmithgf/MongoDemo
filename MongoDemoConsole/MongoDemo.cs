@@ -38,14 +38,15 @@ namespace MongoDemoConsole
             Console.ReadKey();
         }
 
-        //http://mongodb.github.io/mongo-csharp-driver/2.4/getting_started/quick_tour/
+        //http://mongodb.github.io/mongo-csharp-driver/2.5/getting_started/quick_tour/
         public static void Example()
         {
             // Connect
-            // http://mongodb.github.io/mongo-csharp-driver/2.4/reference/driver/authentication/
+            // http://mongodb.github.io/mongo-csharp-driver/2.5/reference/driver/authentication/
             var mongoClientSettings = new MongoClientSettings
             {
-                Credentials = new[] { MongoCredential.CreateCredential("daviddb", "dbuser", "userpwd") },
+                // Credentials = new[] { MongoCredential.CreateCredential("daviddb", "dbuser", "userpwd") }, // Obsolete in 2.5
+                Credential = MongoCredential.CreateCredential("daviddb", "dbuser", "userpwd"),
                 Server = new MongoServerAddress("10.1.31.63", 27017)
             };
             var database = new MongoClient(mongoClientSettings).GetDatabase("daviddb");
